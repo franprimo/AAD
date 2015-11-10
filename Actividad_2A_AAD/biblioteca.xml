@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libros>
+	<libro>
+		<titulo>La chica del tren</titulo>
+		<autor>Pilar Hawkin</autor>
+		<anoPublicacion>2015</anoPublicacion>
+		<editor>Planeta</editor>
+		<numPag>645</numPag>
+	</libro>
+	<libro>
+		<titulo>La luz que no puedes ver</titulo>
+		<autor>Anthony Doerr</autor>
+		<anoPublicacion>2015</anoPublicacion>
+		<editor>Suma</editor>
+		<numPag>664</numPag>
+	</libro>
+</libros>
